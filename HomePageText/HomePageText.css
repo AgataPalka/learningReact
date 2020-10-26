@@ -1,0 +1,10 @@
+.text-home {
+position: absolute;
+}
+
+.opening-text {
+    padding-left: 20px;
+    writing-mode: vertical-lr;
+    text-orientation: upright; 
+    font-size: 50px;
+}
